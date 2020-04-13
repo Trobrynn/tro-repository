@@ -1,2 +1,0 @@
-*.mkv filter=lfs diff=lfs merge=lfs -text
-take_photo.mkv filter=lfs diff=lfs merge=lfs -text
